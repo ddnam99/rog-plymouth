@@ -1,6 +1,6 @@
 # rog-plymouth
 
-:::image source="boot.png":::
+![rog logo](boot.png)
 
 ### Open terminal & run commands:
 
